@@ -1,14 +1,16 @@
 {
   "learningTrack": "JavaScript",
   "userName": "Sophia Yougin",
-  "taskCount": 2,
+  "taskCount": 3,
   "keys": [
     "5e06b81de9ac43218a974785ffce8146",
     "2ghypftgfk18tt4g29w2opx7h1jwsrv8e829",
-    "3yk5kju2l8tf6bitnt1yx4i142yifsiftxmj"
+    "3yk5kju2l8tf6bitnt1yx4i142yifsiftxmj",
+    "c96tle4afn4k5wqejnl8pm5r6eewojkdwv3p"
   ],
   "userSubmittedFiles": [
     "task1.js",
-    "task2.js"
+    "task2.js",
+    "task3.js"
   ]
 }
